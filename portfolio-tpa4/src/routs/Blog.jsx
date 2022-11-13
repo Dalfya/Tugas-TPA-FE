@@ -41,7 +41,7 @@ function Blog() {
             <Card.Body className="card-body-porto">
               <Card.Text>
               React Native adalah framework yang digunakan untuk membuat mobile app di dua sistem operasi sekaligus, yaitu Android dan iOS. 
-              React Native disebut juga dengan cross-platform network karena Anda bisa membuat satu aplikasi yang bisa digunakan di berbagai platform.
+              React Native disebut juga dengan cross-platform network.
               </Card.Text>
               <a href="https://reactnative.dev/">Read More...</a>
             </Card.Body>
