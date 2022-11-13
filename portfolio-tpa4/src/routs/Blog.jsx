@@ -10,7 +10,7 @@ function Blog() {
      <div className="card-konten">
       <Row>
       <Col>
-          <Card Card className="card-porto">
+          <Card card className="card-porto">
             <Card.Header><h3>React JS</h3></Card.Header><br/>
             <Card.Body className="card-body-porto">
               <Card.Text>
@@ -22,7 +22,7 @@ function Blog() {
           </Card>
         </Col>
         <Col>
-          <Card Card className="card-porto">
+          <Card card className="card-porto">
             <Card.Header><h3>Node JS</h3></Card.Header><br/>
             <Card.Body className="card-body-porto">
               <Card.Text>
@@ -36,7 +36,7 @@ function Blog() {
       </Row>
       <Row>
       <Col>
-          <Card Card className="card-porto">
+          <Card card className="card-porto">
             <Card.Header><h3>React Native</h3></Card.Header><br/>
             <Card.Body className="card-body-porto">
               <Card.Text>
@@ -48,7 +48,7 @@ function Blog() {
           </Card>
         </Col>
         <Col>
-          <Card Card className="card-porto">
+          <Card card className="card-porto">
             <Card.Header><h3>Vue JS</h3></Card.Header><br/>
             <Card.Body className="card-body-porto">
               <Card.Text>

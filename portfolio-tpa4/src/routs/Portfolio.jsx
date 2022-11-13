@@ -14,7 +14,7 @@ function Portfolio() {
      <div className="card-konten">
       <Row>
         <Col>
-          <Card Card className="card-porto">
+          <Card card className="card-porto">
             <Card.Img variant="top" src={picture1} alt="picture1" className="picture"/>
             <Card.Body className="card-body-porto">
               <Card.Title><h3>UI/UX Dasar</h3></Card.Title>
@@ -22,7 +22,7 @@ function Portfolio() {
           </Card>
         </Col>
         <Col>
-          <Card Card className="card-porto">
+          <Card card className="card-porto">
             <Card.Header><h3>Movie</h3></Card.Header><br/>
             <Card.Body className="card-body-porto">
               <Card.Title>Movie app with TMDB API</Card.Title>
@@ -37,7 +37,7 @@ function Portfolio() {
       </Row>
       <Row>
         <Col>
-        <Card className="card-porto">
+        <Card card className="card-porto">
             <Card.Img variant="top" src={picture2} alt="picture2" className="picture"/>
             <Card.Body className="card-body-porto">
               <Card.Title><h3>WEB DEV Dasar</h3></Card.Title>
@@ -45,7 +45,7 @@ function Portfolio() {
           </Card>
         </Col>
         <Col>
-          <Card Card className="card-porto">
+          <Card card className="card-porto">
           <Card.Header><h3>Todo List Apps</h3></Card.Header><br/>
           <Card.Body className="card-body-porto">
             <Card.Title>Building with ReactJS</Card.Title>
